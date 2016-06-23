@@ -14,4 +14,5 @@ gen
 .idea/modules.xml
 .idea/workspace.xml
 .idea/vcs.xml
-ch01/
+/ch01/bowerInstall/node_modules/
+/ch01/bowerInstall/bower_components/
