@@ -16,3 +16,5 @@ gen
 .idea/vcs.xml
 /ch01/bowerInstall/node_modules/
 /ch01/bowerInstall/bower_components/
+/ch01/amd/bower_components/
+ch01/amd/bower_components/

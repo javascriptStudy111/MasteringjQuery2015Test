@@ -1,0 +1,21 @@
+{
+  "name": "amd",
+  "homepage": "https://github.com/javascriptStudy111/MasteringjQuery2015Test",
+  "authors": [
+    "YunZhang2014 <jslgdxzy@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "requirejs": "^2.2.0"
+  }
+}
